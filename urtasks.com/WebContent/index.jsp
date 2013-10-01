@@ -40,8 +40,7 @@
         <p>hi</p>
       </div>
        <div class="tabpage" id="tabpage_5">
-        <h2>Pricing</h2>
-        <p>hi</p>
+        	<%@include file="jsp/Pricing.jsp" %>
       </div>
        <div class="tabpage" id="tabpage_6">
         <h2>Success Stories</h2>
@@ -69,5 +68,9 @@
 <script type="text/javascript" src="js/urtasks.js">
 
 </script>
+<footer>
+<font size="3" color=#3399FF>copy right @urtasks.com</font>
+
+</footer>
 </body>
 </html>

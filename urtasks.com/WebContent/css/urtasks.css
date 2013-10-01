@@ -98,10 +98,19 @@ h2{
 	border-top-right-radius: 4px;
 	border-bottom-right-radius: 4px;
 	border-bottom-left-radius: 4px; 
-	padding:210px 210px 215px;
+	padding:10px 20px 215px;
 	background: #FFFFFF; /* old browsers */
 	background: -moz-linear-gradient(top, #FFFFFF 0%, #FFFFFF 90%, #e4e9ed 100%); /* firefox */
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#FFFFFF), color-stop(90%,#FFFFFF), color-stop(100%,#e4e9ed)); /* webkit */
 	margin:0;
 	color:#333;
+}
+footer {
+    background-color: #FFFFFF;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+    overflow:hidden;
 }

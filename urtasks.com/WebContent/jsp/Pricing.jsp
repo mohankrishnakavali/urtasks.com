@@ -6,7 +6,10 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Pricing</title>
 </head>
+<h2>Dedicated Virtual Assistants $6.98 / hour <br>
+Get in touch with our Team to discuss your Tasks ......</h2>
+<div id="pricePage">
+</div>
 <body>
-
 </body>
 </html>
